@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dilagluc
-- 👀 I’m interested in cybersecurity
+- 👀 
 - 🌱 I’m currently learning
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
